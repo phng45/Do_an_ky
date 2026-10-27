@@ -1,0 +1,6 @@
+{
+  "name": "HOOPZONE - Basketball Store & Apparel",
+  "description": "Cửa hàng trang thiết bị và thời trang bóng rổ chính hãng: giày thi đấu, áo đấu, bóng rổ và phụ kiện với tính năng quản lý kho mẫu, giỏ hàng, đặt hàng và tài khoản người dùng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
