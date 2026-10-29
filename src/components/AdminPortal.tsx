@@ -41,7 +41,7 @@ import {
 import { useShop } from '../context/ShopContext';
 import { formatVND, formatDate } from '../utils/format';
 import { Order, Product, ProductCategory, AttendanceRecord } from '../types';
-
+//Test case, dữ liệu mẫu, sửa lỗi,
 interface AdminPortalProps {
   onSwitchToStorefront: () => void;
   onSwitchToStaffPortal?: () => void;
