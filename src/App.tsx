@@ -18,7 +18,7 @@ import { Footer } from './components/Footer';
 import { ToastContainer } from './components/ToastContainer';
 import { Product, ProductCategory, Order } from './types';
 import { Flame, Sparkles, PackageSearch, Boxes, Zap } from 'lucide-react';
-
+//cp2: nghiệp vụ, use case, dữ liệu, ràng buộc
 function Storefront() {
   const { products, addToCart, currentUser } = useShop();
 
